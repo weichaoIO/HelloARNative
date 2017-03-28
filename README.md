@@ -25,7 +25,7 @@
 
 >官方下载地址：http://www.easyar.cn/view/download.html
 
-![](https://github.com/weichao66666/HelloARNative/raw/master/README.md-images/QQ截图20170327112156.jpg)
+![](https://github.com/weichao66666/HelloARNative/raw/master/README.md-images/QQ截图20170327114752.jpg)
 
 第一个包含 jar、so、hpp。
 
