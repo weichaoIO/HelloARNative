@@ -15,7 +15,9 @@
 
 #**Tips**
 
-从 GitHub 下载代码后文件夹名称 HelloARNative-master 需要改为 HelloARNative。
+* Android 6.0+ 需要动态获取权限，这里只是官方例程导入，不含该部分。
+
+* 从 GitHub 下载代码后文件夹名称 HelloARNative-master 需要改为 HelloARNative。
 
 ---
 
