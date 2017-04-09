@@ -15,7 +15,7 @@
 
 #**Tips**
 
-* Android 6.0+ 需要动态获取权限，这里只是官方例程导入，不含该部分。（动态获取权限可以参考[HelloARVideoNative](https://github.com/weichao66666/HelloARVideoNative "https://github.com/weichao66666/HelloARVideoNative")）
+* Android 6.0+ 需要动态获取权限，这里只是官方例程导入，不含该部分。（动态获取权限可以参考 [HelloARVideoNative](https://github.com/weichao66666/HelloARVideoNative "https://github.com/weichao66666/HelloARVideoNative")）
 
 * 从 GitHub 下载代码后文件夹名称 HelloARNative-master 需要改为 HelloARNative。
 
